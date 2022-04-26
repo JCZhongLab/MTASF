@@ -77,10 +77,6 @@ topmg -x -i WHIM12_topmg_mods.txt -d -t FDR -v 0.01 -T FDR -V 0.01 human_proteom
 
 - ##### Enter the initial filtered database size  *f* , proteoform truncation ratio *k*, tag error tolerance range (ErrorT), and tag length *L* in turn according to the prompt.
 
-  ![1650943575330](C:\Users\zyc\AppData\Roaming\Typora\typora-user-images\1650943575330.png)
-
-
-
 
 
 ### Linux (Ubuntu):
