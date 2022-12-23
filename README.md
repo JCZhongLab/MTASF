@@ -7,7 +7,6 @@ For manual and reference, please visit http://proteomics.informatics.iupui.edu/s
 
 ### Windows:
 
-[MSYS2](http://www.msys2.org/) is used for Windows building. Please follow the instructions from [here](doc/windows_build.md).
 
 [MSYS2](http://www.msys2.org/) provides an excellent building platform for Windows. Please follow the instructions on MSYS2 website for installation and update the package database and core system packages. Then we can install other required packages using the commands below in MSYS2 shell:
 
